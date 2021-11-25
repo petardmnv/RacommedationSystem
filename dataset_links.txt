@@ -1,0 +1,2 @@
+Nice Looking Movie DS 1. https://www.kaggle.com/rishitjavia/netflix-movie-rating-dataset?select=Netflix_Dataset_Movie.csv
+Nice Looking Movie DS 2. https://www.kaggle.com/grouplens/movielens-20m-dataset?select=tag.csv
